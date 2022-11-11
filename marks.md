@@ -1,16 +1,9 @@
 # Academy Performance
 
+## Marks
 
-| test | Maths | C language |
-| ------- |:-------:| -----:|
-| Test 1 | 10 | 8 |
-| Mid Sem | 20 | 20 |
-| End Sem | 65 | 69 |
+I have both B grades in my classes 
 
-## Certificates
-
-![Certificate 1](https://github.com/username/image.png)
-
-![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
+I done work window and office and have fixed and worked with them alot.
 
 [return to home](./README.md)
