@@ -2,7 +2,8 @@
 
 ## My coding skills
 1. Python
-2. Markdown
+
+I have mostly gotten used to using python from this class.
 
 
 [Go back to home page](./README.md)
